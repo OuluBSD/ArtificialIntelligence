@@ -1,0 +1,15 @@
+description "Foundational classical AI algorithms: Graphs, A*, Dijkstra, GOAP ActionPlanner, GeneticOptimizer\377";
+
+uses
+	Core;
+
+file
+	AGENTS.md,
+	Base.h,
+	Graph.h,
+	Graph.cpp,
+	Search.h,
+	Search.cpp,
+	ActionPlanner.h,
+	ActionPlanner.cpp,
+	GeneticOptimizer.h;

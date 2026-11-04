@@ -1,0 +1,11 @@
+description "GOAP (Goal-Oriented Action Planning) and A* Search Demonstration\377";
+
+uses
+	Core,
+	AI/Base;
+
+file
+	main.cpp;
+
+mainconfig
+	"" = "";

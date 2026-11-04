@@ -1,0 +1,15 @@
+description "Unit tests for ArtificialIntelligence packages\377";
+
+uses
+	Core,
+	AI/Base,
+	AI/DecisionTree,
+	AI/Logic,
+	AI/Algo,
+	TrustCore;
+
+file
+	AiTests.cpp;
+
+mainconfig
+	"" = "";

@@ -1,0 +1,11 @@
+description "Machine Learning Decision Tree and Random Forest Classifier Demo\377";
+
+uses
+	Core,
+	AI/DecisionTree;
+
+file
+	main.cpp;
+
+mainconfig
+	"" = "";

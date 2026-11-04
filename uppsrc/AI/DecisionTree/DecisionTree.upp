@@ -1,0 +1,11 @@
+description "Decision Tree and Random Forest classifiers and regressors\377";
+
+uses
+	Core;
+
+file
+	AGENTS.md,
+	DecisionTree.h,
+	DecisionTree.cpp,
+	RandomForest.h,
+	RandomForest.cpp;

@@ -1,0 +1,9 @@
+description "Lightweight Generic Algorithms (FastSearch)";
+
+uses
+	Core;
+
+file
+	FastSearch.h,
+	Algo.cpp;
+

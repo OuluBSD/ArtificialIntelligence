@@ -1,0 +1,19 @@
+# Build artifacts
+bin/
+out/
+tmp/
+.cache/
+
+# Compiled objects & libraries
+*.o
+*.obj
+*.so
+*.a
+*.dylib
+*.dll
+*.exe
+
+# Editor swap files
+*~
+*.swp
+.DS_Store
